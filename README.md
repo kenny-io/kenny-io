@@ -2,7 +2,7 @@
 
 I'm Ekene Eze, but you can call me Kenny. I like to learn A LOT! So you'll mostly find me talking about the things I've learnt and the things I'm doing with that knowledge.
 
-I'm mostly interested in the Jamstack, Vuejs and all things JavaScript so you might also find me writing, making video courses, YouTube tutorials, and generally sharing my thoughts on the said topics. Most recently I've been diving into the no-code/low-code space and learning visual building.
+I'm mostly interested in the Jamstack, Vuejs and all things JavaScript so you might also find me writing, making video courses, YouTube tutorials, and generally sharing my thoughts on the said topics. Most recently I've been diving into web3 and learning a little bit more about the space.
 
 I worked with [Flutterwave](https://flutterwave.com/us) as the Developer Advocate, moved on to [Netlify](https://netlify.com/) where I worked as a senior Developer Experience Engineer and most recently with [Plasmic](https://plasmic.app) as the Director of Developer Experience.
 
