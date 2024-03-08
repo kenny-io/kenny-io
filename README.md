@@ -4,11 +4,14 @@ I'm Ekene Eze, Kenny for short.
 
 I'm a Software Engineer and Developer Advocate with over 5 years experience working in DevRel across different functions. 
 
-Recently as a Senior Developer Experience Engineer at [Netlify](https://netlify.com/us) and leading DevRel teams in companies like Plasmic and Abridged!
+In the past I've worked with companies like:
 
-On the side, I consult on DevRel for companies, I angel invest, and mentor software developers/advocates through [@dxmentorship program](https://www.dxmentorship.com).
+* [Netlify](https://netlify.com/us)
+* [Flutterwave](https://flutterwave.com/us)
+* [Plasmic](https://plasmic.app)
+* [Collab.Land](collab.land)
 
-I worked with [Flutterwave](https://flutterwave.com/us) as the Manager of the Developer Experience team, moved on to [Netlify](https://netlify.com/) where I worked as a Senior Developer Experience Engineer and most recently with [Plasmic](https://plasmic.app) as the Director of Developer Experience. Now I help developers succeed at [Collab.Land](collab.land).
+I founded [DXmentorship program](https://www.dxmentorship.com) to help more developers upskill in developer relations.
 
 You'll mostly find demos that I've built while teaching via my blog posts and video tutorials on my Github and some OSS projects I'm maintaining. 
 
