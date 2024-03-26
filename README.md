@@ -2,13 +2,12 @@
 
 I'm Ekene Eze, Kenny for short.
 
-I'm a Software Engineer and Developer Advocate with over 5 years experience working in DevRel across different functions. 
+I'm a Software Engineer and Developer Advocate at [Shardeum](https://shardeum.org/)
 
-In the past I've worked with companies like:
+In the past, I've worked with companies like:
 
 * [Netlify](https://netlify.com/us)
 * [Flutterwave](https://flutterwave.com/us)
-* [Plasmic](https://plasmic.app)
 * [Collab.Land](collab.land)
 
 I founded [DXmentorship program](https://www.dxmentorship.com) to help more developers upskill in developer relations.
